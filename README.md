@@ -17,7 +17,7 @@ MATLAB code library by J. N. Kutz and S. L. Brunton.
 
 **This code makes use of data files not packaged in the repository. These may be downloaded here: http://databookuw.com/DATA.zip (unzip into same directory)**
 
-Python versions of these demos are available at https://github.com/dynamicslab/Data_Driven_Science_Python_Demos/
+Python versions of these demos are available at https://github.com/dynamicslab/databook_python
 
 Links to useful Github codes:
 

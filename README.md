@@ -10,7 +10,6 @@ by S. L. Brunton and J. N. Kutz
 Cambridge Textbook, 2019  
 Copyright 2019, All Rights Reserved  
 http://databookuw.com/
-https://www.amazon.com/Data-Driven-Science-Engineering-Learning-Dynamical/dp/1108422098
 
 Please cite this book when using this code/data. 
 

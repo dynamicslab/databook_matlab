@@ -10,10 +10,11 @@ by S. L. Brunton and J. N. Kutz
 Cambridge Textbook, 2019  
 Copyright 2019, All Rights Reserved  
 http://databookuw.com/
+https://www.amazon.com/Data-Driven-Science-Engineering-Learning-Dynamical/dp/1108422098
 
 Please cite this book when using this code/data. 
 
-MATLAB code library by J. N. Kutz and S. L. Brunton.
+MATLAB code library by S. L. Brunton and J. N. Kutz.
 
 **This code makes use of data files not packaged in the repository. These may be downloaded here: http://databookuw.com/DATA.zip (unzip into same directory)**
 

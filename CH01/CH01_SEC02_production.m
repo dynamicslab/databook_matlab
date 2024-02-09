@@ -1,6 +1,6 @@
 clear all, close all, clc
 
-A=imread('../DATA/dog.jpg');
+A=imread('CH01/dog.jpg');
 X=double(rgb2gray(A));  % Convert RBG to gray, 256 bit to double.
 nx = size(X,1); ny = size(X,2);
 
